@@ -1,0 +1,55 @@
+cars,children,income,workers,cat_id,frequency
+none,no,gt100,none,0,0.001
+none,no,gt100,one,1,1.0
+none,no,gt100,two or more,2,1.0
+none,no,gt35-lt100,none,3,1.0
+none,no,gt35-lt100,one,4,2.0
+none,no,gt35-lt100,two or more,5,3.0
+none,no,lt35,none,6,64.0
+none,no,lt35,one,7,2.0
+none,no,lt35,two or more,8,1.0
+none,yes,gt100,none,9,0.001
+none,yes,gt100,one,10,0.001
+none,yes,gt100,two or more,11,0.001
+none,yes,gt35-lt100,none,12,0.001
+none,yes,gt35-lt100,one,13,3.0
+none,yes,gt35-lt100,two or more,14,2.0
+none,yes,lt35,none,15,2.0
+none,yes,lt35,one,16,5.0
+none,yes,lt35,two or more,17,0.001
+one,no,gt100,none,18,3.0
+one,no,gt100,one,19,7.0
+one,no,gt100,two or more,20,14.0
+one,no,gt35-lt100,none,21,41.0
+one,no,gt35-lt100,one,22,30.0
+one,no,gt35-lt100,two or more,23,36.0
+one,no,lt35,none,24,798.0
+one,no,lt35,one,25,23.0
+one,no,lt35,two or more,26,12.0
+one,yes,gt100,none,27,0.001
+one,yes,gt100,one,28,23.0
+one,yes,gt100,two or more,29,10.0
+one,yes,gt35-lt100,none,30,2.0
+one,yes,gt35-lt100,one,31,88.0
+one,yes,gt35-lt100,two or more,32,29.0
+one,yes,lt35,none,33,11.0
+one,yes,lt35,one,34,72.0
+one,yes,lt35,two or more,35,6.0
+two or more,no,gt100,none,36,28.0
+two or more,no,gt100,one,37,81.0
+two or more,no,gt100,two or more,38,361.0
+two or more,no,gt35-lt100,none,39,90.0
+two or more,no,gt35-lt100,one,40,172.0
+two or more,no,gt35-lt100,two or more,41,327.0
+two or more,no,lt35,none,42,383.0
+two or more,no,lt35,one,43,38.0
+two or more,no,lt35,two or more,44,24.0
+two or more,yes,gt100,none,45,0.001
+two or more,yes,gt100,one,46,114.0
+two or more,yes,gt100,two or more,47,422.0
+two or more,yes,gt35-lt100,none,48,1.0
+two or more,yes,gt35-lt100,one,49,125.0
+two or more,yes,gt35-lt100,two or more,50,322.0
+two or more,yes,lt35,none,51,8.0
+two or more,yes,lt35,one,52,54.0
+two or more,yes,lt35,two or more,53,42.0

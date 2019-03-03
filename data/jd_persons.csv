@@ -1,0 +1,33 @@
+age,race,sex,cat_id,frequency
+19 and under,asian,female,0,67
+19 and under,asian,male,1,55
+19 and under,black,female,2,289
+19 and under,black,male,3,273
+19 and under,other,female,4,115
+19 and under,other,male,5,102
+19 and under,white,female,6,952
+19 and under,white,male,7,984
+20 to 35,asian,female,8,61
+20 to 35,asian,male,9,68
+20 to 35,black,female,10,186
+20 to 35,black,male,11,164
+20 to 35,other,female,12,55
+20 to 35,other,male,13,49
+20 to 35,white,female,14,729
+20 to 35,white,male,15,714
+35 to 60,asian,female,16,83
+35 to 60,asian,male,17,72
+35 to 60,black,female,18,373
+35 to 60,black,male,19,280
+35 to 60,other,female,20,61
+35 to 60,other,male,21,53
+35 to 60,white,female,22,1462
+35 to 60,white,male,23,1394
+above 60,asian,female,24,25
+above 60,asian,male,25,15
+above 60,black,female,26,95
+above 60,black,male,27,58
+above 60,other,female,28,12
+above 60,other,male,29,10
+above 60,white,female,30,673
+above 60,white,male,31,525
